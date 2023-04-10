@@ -3,7 +3,7 @@
 
 ###  Project Vaxorn is a lightweight solution for Amazon FBA sellers wanting a Google Sheet's database for all of their seller data. 
 # Features
-- Written Google Appscript Javascript
+- Written in Google's Appscript Javascript Framework
 - Quick, and Cost-efffective Integration
 - Does not rate limit API access `(planned)`
 
