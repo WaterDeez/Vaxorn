@@ -4,7 +4,7 @@
 ###  Project Vaxorn is a library of Google Sheet's functions for Amazon FBA sellers wanting to closely integrate and automate their workflow. 
 # Features
 - Written in Google's Appscript Javascript Framework
-- Quick Integration
+- Quick Installation into Workflow 
 - Multi-platform API and Data integration `(planned)` 
 
 # Quick Start Guide
